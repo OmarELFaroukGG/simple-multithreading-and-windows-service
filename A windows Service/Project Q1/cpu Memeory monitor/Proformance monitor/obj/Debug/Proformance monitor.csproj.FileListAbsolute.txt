@@ -1,0 +1,20 @@
+D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe.config
+D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.pdb
+D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\obj\Debug\Proformance monitor.csproj.AssemblyReference.cache
+D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\obj\Debug\Proformance_monitor.PreformanceMonitor.resources
+D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\obj\Debug\Proformance_monitor.ProjectInstaller.resources
+D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\obj\Debug\Proformance monitor.csproj.GenerateResource.cache
+D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\obj\Debug\Proformance monitor.csproj.CoreCompileInputs.cache
+D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\obj\Debug\Proformance monitor.exe
+D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\obj\Debug\Proformance monitor.pdb
+C:\Users\Blu-Ray\Desktop\OSoutput\Project Q1\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe.config
+C:\Users\Blu-Ray\Desktop\OSoutput\Project Q1\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+C:\Users\Blu-Ray\Desktop\OSoutput\Project Q1\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.pdb
+C:\Users\Blu-Ray\Desktop\OSoutput\Project Q1\cpu Memeory monitor\Proformance monitor\obj\Debug\Proformance monitor.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\Desktop\OSoutput\Project Q1\cpu Memeory monitor\Proformance monitor\obj\Debug\Proformance_monitor.PreformanceMonitor.resources
+C:\Users\Blu-Ray\Desktop\OSoutput\Project Q1\cpu Memeory monitor\Proformance monitor\obj\Debug\Proformance_monitor.ProjectInstaller.resources
+C:\Users\Blu-Ray\Desktop\OSoutput\Project Q1\cpu Memeory monitor\Proformance monitor\obj\Debug\Proformance monitor.csproj.GenerateResource.cache
+C:\Users\Blu-Ray\Desktop\OSoutput\Project Q1\cpu Memeory monitor\Proformance monitor\obj\Debug\Proformance monitor.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\Desktop\OSoutput\Project Q1\cpu Memeory monitor\Proformance monitor\obj\Debug\Proformance monitor.exe
+C:\Users\Blu-Ray\Desktop\OSoutput\Project Q1\cpu Memeory monitor\Proformance monitor\obj\Debug\Proformance monitor.pdb

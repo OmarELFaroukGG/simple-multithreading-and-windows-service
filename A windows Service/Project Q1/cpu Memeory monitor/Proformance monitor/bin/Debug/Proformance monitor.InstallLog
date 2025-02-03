@@ -1,0 +1,193 @@
+﻿Installing assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Installing service PreformanceMonitor...
+Service PreformanceMonitor has been successfully installed.
+Creating EventLog source PreformanceMonitor in log Application...
+Committing assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Uninstalling assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Removing EventLog source PreformanceMonitor.
+Service PreformanceMonitor is being removed from the system...
+Service PreformanceMonitor was successfully removed from the system.
+Installing assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Installing service PreformanceMonitor...
+Service PreformanceMonitor has been successfully installed.
+Creating EventLog source PreformanceMonitor in log Application...
+Committing assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Uninstalling assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Removing EventLog source PreformanceMonitor.
+Service PreformanceMonitor is being removed from the system...
+Service PreformanceMonitor was successfully removed from the system.
+Installing assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Installing service PreformanceMonitor...
+Service PreformanceMonitor has been successfully installed.
+Creating EventLog source PreformanceMonitor in log Application...
+Committing assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Uninstalling assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Removing EventLog source PreformanceMonitor.
+Service PreformanceMonitor is being removed from the system...
+Service PreformanceMonitor was successfully removed from the system.
+Attempt to stop service PreformanceMonitor.
+Installing assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Installing service PreformanceMonitor...
+Service PreformanceMonitor has been successfully installed.
+Creating EventLog source PreformanceMonitor in log Application...
+Committing assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Uninstalling assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Removing EventLog source PreformanceMonitor.
+Service PreformanceMonitor is being removed from the system...
+Service PreformanceMonitor was successfully removed from the system.
+Attempt to stop service PreformanceMonitor.
+Installing assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Installing service PreformanceMonitor...
+Service PreformanceMonitor has been successfully installed.
+Creating EventLog source PreformanceMonitor in log Application...
+Committing assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Uninstalling assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Removing EventLog source PreformanceMonitor.
+Service PreformanceMonitor is being removed from the system...
+Service PreformanceMonitor was successfully removed from the system.
+Attempt to stop service PreformanceMonitor.
+Installing assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Installing service PreformanceMonitor...
+Service PreformanceMonitor has been successfully installed.
+Creating EventLog source PreformanceMonitor in log Application...
+Committing assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Uninstalling assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Removing EventLog source PreformanceMonitor.
+Service PreformanceMonitor is being removed from the system...
+Service PreformanceMonitor was successfully removed from the system.
+Attempt to stop service PreformanceMonitor.
+Installing assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Installing service PreformanceMonitor...
+Service PreformanceMonitor has been successfully installed.
+Creating EventLog source PreformanceMonitor in log Application...
+Committing assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Uninstalling assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Removing EventLog source PreformanceMonitor.
+Service PreformanceMonitor is being removed from the system...
+Service PreformanceMonitor was successfully removed from the system.
+Installing assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Installing service PreformanceMonitor...
+Service PreformanceMonitor has been successfully installed.
+Creating EventLog source PreformanceMonitor in log Application...
+Committing assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Uninstalling assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Removing EventLog source PreformanceMonitor.
+Service PreformanceMonitor is being removed from the system...
+Service PreformanceMonitor was successfully removed from the system.
+Installing assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Installing service PreformanceMonitor...
+Service PreformanceMonitor has been successfully installed.
+Creating EventLog source PreformanceMonitor in log Application...
+Committing assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Uninstalling assembly 'D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.InstallLog
+   assemblypath = D:\SE C# Codes\cpu Memeory monitor\Proformance monitor\bin\Debug\Proformance monitor.exe
+Removing EventLog source PreformanceMonitor.
+Service PreformanceMonitor is being removed from the system...
+Service PreformanceMonitor was successfully removed from the system.

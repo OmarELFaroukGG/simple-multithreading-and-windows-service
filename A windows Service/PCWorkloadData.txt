@@ -1,0 +1,4 @@
+CPU Usage: 0.5802242%
+RAM Available: 3296 MB
+HDD Free Space: 12.22064%
+Network Usage: 0 Bytes/sec
